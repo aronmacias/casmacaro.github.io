@@ -1,9 +1,8 @@
 ---
-title: Pagina principal
+title: page 1
 layout: home
 color_scheme: blue 
-nav_enabled: true
-nav_order: 1 
+
 ---
 
 
